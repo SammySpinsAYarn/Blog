@@ -2,13 +2,13 @@ backend:
   name: github
   repo: sammyspinsayarn/blog # Path to your GitHub repository
   branch: master # Branch to update (master by default)
-  site_domain: sammyspinsayarn.netlify.app #Your site on netlify
+  site_domain: admirable-eclair-53dc93.netlify.app #Your site on netlify
   use_graphql: true
 
 publish_mode: editorial_workflow
 show_preview_links: true
-display_url: https://sammyspinsayarn.netlify.app
-logo_url: https://sammyspinsayarn.netlify.app/uploads/logo.jpg
+display_url: https://admirable-eclair-53dc93.netlify.app/
+logo_url: https://admirable-eclair-53dc93.app/uploads/logo.jpg
 
 # Do NOT edit below this line unless you want to change the home page
 
