@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Here is a blog post sample
-date: 2020-06-24 17:50
+title: "Animal Friends of Font: Yan Schenkel"
+date: 2023-04-03T16:00:00.000Z
 image: /uploads/867FAB82-62D7-4C53-8EDC-5114095CF8AA.jpeg
 caption: Cobbles
 ---
