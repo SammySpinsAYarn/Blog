@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Animal Friends of Font: Yan Schenkel"
-date: 2023-04-03T15:30:32.222Z
+date: 2023-04-10T15:30:32.222Z
 title_color: "#ffffff"
 caption: Yan Schenkel, Argentinian crochet toy designer, and her first book
 comments: false
