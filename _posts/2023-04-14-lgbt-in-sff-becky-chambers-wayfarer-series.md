@@ -2,6 +2,7 @@
 layout: post
 title: "LGBT+ In SFF: Becky Chambers' 'Wayfarer' Series"
 date: 2023-04-17T15:30:08.385Z
+image: ../uploads/article11a.jpg
 title_color: "#ffffff"
 comments: false
 tags:
