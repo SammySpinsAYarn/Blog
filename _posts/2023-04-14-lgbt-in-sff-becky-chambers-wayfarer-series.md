@@ -8,7 +8,7 @@ comments: false
 tags:
   - Books
 ---
-T﻿here has been a growing demand for representation in literature, especially in genre fiction where dragons and spaceships are often deemed more realistic than a happy same-sex couple. So beginning the *Wayfarer* series was a welcome change.
+T﻿here has been a growing demand for representation in literature, especially in genre fiction where dragons and spaceships are often deemed more realistic than queer representation or a happy same-sex couple. So beginning the *Wayfarer* series was a welcome change.
 
 Reading *The Long Way to a Small Angry Planet* was not planned. Nor was it the book I expected, and for that I am grateful. Although I had seen it many times over the years in digital shops, I had written it off as another book about how Earth was crumbling around us and the eventual, inevitable demise of humanity based on the title. Instead, it is an interplanetary, intersectional, intriguing science fiction. But it is not the plot separating this novel from its genre contemporaries and predecessors; it is the characters Chambers introduces her audience to.
 
