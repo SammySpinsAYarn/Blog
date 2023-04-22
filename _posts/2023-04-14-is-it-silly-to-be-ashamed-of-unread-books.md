@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Is It Silly to Be Ashamed of Unread Books?
-date: 2023-04-17T12:30:19.805Z
+date: 2023-04-21T12:30:19.805Z
+image: ../uploads/article2-headerimage.jpg
 title_color: "#ffffff"
 comments: false
 ---
