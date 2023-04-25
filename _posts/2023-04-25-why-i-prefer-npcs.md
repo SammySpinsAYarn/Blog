@@ -11,4 +11,4 @@ F﻿irstly, they do not need the 'depth' we ascribe to major characters. Motivat
 
 S﻿econdly, it is the variety. Are they a henchman with nothing beyond malevelonce and some level of grime? Are they a shop assistant ready with a smile? Are they a mercurial person with needed information and suspect intentions?
 
-T﻿hirdly, there is an element of roleplay different to that of my younger self.
+T﻿hirdly, there is an element of roleplay that appeals. More and more people are aspiring to a
