@@ -5,6 +5,8 @@ date: 2023-04-21T12:30:19.805Z
 image: ../uploads/article2-headerimage.jpg
 title_color: "#ffffff"
 comments: false
+tags:
+  - Books
 ---
 Online book spaces often host people showing book hauls, unread books, and ever-growing to-be-read stacks. Hours of content exist of people sharing it, explaining it, justifying or bemoaning it. Phrases like ‘Buying books and reading books are different hobbies’ or ‘At least it isn’t drugs’ get bandied about in conspiratorially supportive ways. So is this shame valid or unnecessary self-consciousness?
 
