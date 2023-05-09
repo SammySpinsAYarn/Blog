@@ -3,6 +3,7 @@ layout: post
 title: "Helvetica: The Marmite of Typeface"
 date: 2020-10-28T13:56:53.813Z
 header_feature_image: ../uploads/article6-marmite.jpg
+image: ../uploads/2020-10-28-header-image.jpg
 comments: true
 ---
 Helvetica is the (in)famous Swiss type created in 1957. Since its making, it has been upheld as the perfect type, discarded as a capitalist scam, and used so often in today's writing that it has become almost invisible in its ubiquity. So what is Helvetica, and why is it either controversial or unnoticed?
