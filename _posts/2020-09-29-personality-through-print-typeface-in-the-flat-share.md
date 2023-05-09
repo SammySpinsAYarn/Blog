@@ -3,6 +3,7 @@ layout: post
 title: Personality In Print- Typeface in The Flatshare
 date: 2020-09-29T15:51:33.164Z
 header_feature_image: ../uploads/article1-headerimage.jpeg
+image: ../uploads/2020-09-29-header-image.jpeg
 caption: Beth O'Leary's bestselling debut novel
 comments: true
 ---
@@ -10,7 +11,7 @@ Beth O'Leary's *The Flatshare*, the bestselling romantic comedy, is a book of tw
 
 The cover of the first-edition hardback features four different typefaces- the gold writing, the tagline and reviews, and the two in the title. Each one has a different purpose and voice to it, yet the most important are undoubtedly those in the title of the novel.
 
-![](../uploads/theflatsharecover.jpg "The hardcover of the first edition")
+![](../uploads/2020-09-29-hardback-cover.jpg "The hardcover of the first edition")
 
 Most important of the four texts are those used in the title, as these are the ones that are emblematic of the protagonists of the story. *The Flat* is a lightly-flourished, serifed cursive with the impression of movement to it, and a more handwritten feel for a more personal touch. This is Tiffy, her flamboyance and desire to progress in her life and move away from the circumstances that placed her in the flatshare. Leon is the *SHARE* section of the title. His blunter sans-serif is supportive within itself as a word even as it falters, yet remains more stable than Tiffy's. With capitalisation on every letter as well, Leon's *SHARE* is still quite straightforward in a way that lends itself to his shortened, to-the-point narration. Yet in contrast to this gruff, abrupt nature of his "voice", the rounded nature of certain corners of the letters shows his softening and gentler nature indicated both in his interactions with Holly and Mr Prior at work, as well as with Tiffy and his phone conversations with his brother Richie. 
 
