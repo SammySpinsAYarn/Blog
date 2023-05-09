@@ -4,6 +4,8 @@ title: Characters Shaping Drama in 'Legends and Lattes' and 'The House Witch'
 date: 2023-04-28T15:30:25.457Z
 title_color: "#ffffff"
 comments: false
+tags:
+  - Books
 ---
 S﻿takes are key in stories. They must feel important, and mean something to the character to ensure the reader understands and/or supports their actions. Stakes are variable, from a child getting away with a prank to the salvation of a universe. But the drama within these texts also differs, changing the tension readers feel. This contrast is clear in the differences between Delemhach's *The House Witch* trilogy and Travis Baldree's *Legends & Lattes*. 
 
