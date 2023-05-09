@@ -5,4 +5,6 @@ date: 2023-05-05T12:00:57.561Z
 title_color: "#ffffff"
 comments: false
 ---
-D﻿ear Publishing Industry, I﻿ think you're great. You help form books and share stories and spread knowledge and record histories and all sorts of fabulous things. But I have a few questions and gripes about your
+D﻿ear Publishing Industry, I﻿ think you're great. You help form books and share stories and spread knowledge and record histories and all sorts of fabulous things. But I have a few questions and gripes about your cover design choices, and I think readers deserve answers.
+
+F﻿or context, I have a degree that explored the publishing industry and featured considerations such as marketing, typography and cover designer, and the trade publishing market. I know that there is 'logic' to most of the decisions made on the books. I know each book is an investment carefully considered and crafted to maximise its sales. I know that sometime
