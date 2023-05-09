@@ -3,6 +3,7 @@ layout: post
 title: Is Tone the Responsibility of Font?
 date: 2020-10-07T19:43:32.672Z
 header_feature_image: ../uploads/article3-headerimage-byamadorloureiro-.jpg
+image: ../uploads/2020-10-07-header-image-byamadorloureiro.jpg
 caption: Photograph provided by Amador Loureiro via Unsplash
 comments: true
 ---
@@ -14,7 +15,7 @@ And yet, to rely too heavily on typography to convey tone and meaning could also
 
 Sometimes, however, typeface is essential to the message of a word. Certain brands rely on their font as part of their identity; others need typeface to appeal to their core market in competitive areas; more still are dependent on it for emphasis where every inch of space and detail is at a premium. If there are no clear alternatives- no adverbs on speech, no body language in conversation, no tone of voice- then type may be the only way to present tone.
 
-![](../uploads/article3-walterfuneralhome.jpg)
+![](../uploads/2020-10-07-walter-funeral-home.jpg)
 
 Which of these three is most likely to assist the company in being hired? Importance is placed on the image the company presents. Typeface is a way to secure that additional representation that separates one brand from another. In such a limited and crowded arena, this may be the only way to ascend above the tides of competitors. Or even to distinguish yourself in the eyes of an audience for genre or variation (within romance books, many have cursive titles- yet even within that, modern YA tend to be more handwritten in the more modern style versus the almost calligraphic style considered prevalent in the times the book are set). So typography is a way to clearly indicate tone when the subject matter is designed to capture or attract attention or the public/customer's gaze.
 
