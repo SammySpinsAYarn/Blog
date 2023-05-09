@@ -3,13 +3,14 @@ layout: post
 title: Identifying Kindle's Standard Texts
 date: 2020-10-02T17:47:33.138Z
 header_feature_image: ../uploads/article2-header-cropped-.jpg
+image: ../uploads/2020-10-02-header-image.jpg
 comments: true
 ---
 Kindle can refer to several things, including to begin lighting a fire, the Amazon e-readers, and the Amazon eBooks designed for the afore-mentioned devices. The focus here will be the final meaning; the MOBI file digital editions of books. In order to allow these to be read with ease for a range of customers, Kindle devices and apps have a small range of typefaces to allow readers to choose the one they prefer. But what are these fonts, and why have they chosen them?
 
 Based on the most recent iPhone app and Kindle Fire 7, there are ten typefaces:
 
-![](../uploads/article2-known-kindlefonts.jpg "(Known) Kindle Fonts")
+![](../uploads/2020-10-02-kindle-fonts.jpg "(Known) Kindle Fonts")
 
 Those above are the default typefaces available (although there are instructions available online on how to download others for use if the reader desires a specific alternative).
 
@@ -22,11 +23,5 @@ A interesting, but not entirely unexpected, addition is the Amazon Ember- the br
 The outlier of the group is, obviously, the Open Dyslexic typeface. This is an open-source typeface made publicly available and weighted alternatively on different letters to help distinguish them*. It allows a more side-lined group of content consumers to read their purchases more easily.
 
 Yet regardless of which typeface the content consumer chooses, the important thing is this: that reading material is as widely available as can be facilitated in order to assist as many people who wish to learn and enjoy the resources.
-
-
-
-
-
-
 
 \* https://www.opendyslexic.org/about
