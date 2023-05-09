@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Characters Shaping Drama in 'Legends and Lattes' and 'The House Witch' Trilogy
+title: Characters Shaping Drama in 'Legends and Lattes' and 'The House Witch'
 date: 2023-04-28T15:30:25.457Z
 title_color: "#ffffff"
 comments: false
