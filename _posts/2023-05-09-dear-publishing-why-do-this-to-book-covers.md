@@ -15,4 +15,6 @@ T﻿hen we have the weird second-cover-flap. What even is that? Why is it there?
 
 ![](https://i.ebayimg.com/images/g/bvQAAOSwBOBjYOY3/s-l500.jpg "Gideon The Ninth paperback with the offending detail")
 
-P﻿ostulating its purpose, it may be for additional colour or to differentiate it from other books in attracting attention. From what I've heard, it just makes the actual front cover, with the art on it that the designer focused on, get damaged easier because it has been cropped.
+P﻿ostulating its purpose, it may be for additional colour or to differentiate it from other books in attracting attention. From what I've heard, it just makes the actual front cover, with the art on it that the designer focused on, get damaged easier because it has been cropped. If you want a more eye-catching cover format element through colour, perhaps instead capitalise on the growing love for sprayed or decorated edges. Still colourful and attention grabbing without sacrificing size and practicality.
+
+F﻿inally, we have tone switching between editions. In the case of photographic film editions, it is easily explained by capitalising on the viewership to increase the readership. But the change from the smooth black of the original Hunger Games trilogies to the neon atrocities
