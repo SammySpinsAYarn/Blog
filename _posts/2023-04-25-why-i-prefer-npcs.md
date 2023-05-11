@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why I Prefer NPCs
-date: 2023-04-28T12:30:06.529Z
+date: 2023-04-21T12:30:06.529Z
 title_color: "#ffffff"
 comments: false
 ---
