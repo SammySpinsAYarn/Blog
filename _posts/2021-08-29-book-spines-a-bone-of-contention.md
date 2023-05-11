@@ -1,8 +1,9 @@
 ---
+header_feature_image: ../uploads/article8-header-shelfie-.jpg
 layout: post
 title: The Bone to Pick With Book Spines
 date: 2021-08-18T17:00:01.483Z
-header_feature_image: ../uploads/article8-header-shelfie-.jpg
+image: ../uploads/2021-08-18-header-image.jpg
 title_color: "#ffffff"
 comments: false
 tags:
@@ -34,6 +35,6 @@ And there are few things more frustrating than collecting a series with exceptio
 
 And how do we fix this issue? How do we ensure that all spines are viewed and admired the same as their cover counterparts? Simple. We demand it be so. [Ellie Violet Bramley](https://www.theguardian.com/books/2021/apr/18/in-the-instagram-age-you-actually-can-judge-a-book-by-its-cover), [Paula Cocozza](https://www.theguardian.com/books/2017/apr/27/how-ebooks-lost-their-shine-kindles-look-clunky-unhip-) and [Holly Connolly](https://www.theguardian.com/books/2018/aug/28/is-social-media-influencing-book-cover-design) all wrote for *The Guardian* about how bookstagram and a resurgence in the love of physical books has prompted publishers to up their cover design for a number of their products because of the impact social media has made in sales and marketing. The Bookseller has been [publishing articles](https://www.thebookseller.com/search/site/BookTok?page=1) for a little over a year about the impact of BookTok on sales and backlists. As a for-profit industry, publishing had to adapt to match the needs and desires of their customers, and that meant improving this aspect of the product. By extending that attitude to the spine rather than just the front cover, readers and collectors can press the issue with those crafting the books. This will force their hand and the spines will receive the care and attention due to them as part of the book.
 
-![](../uploads/article8-tiktoktable.jpg)
+![](../uploads/2021-08-25-booktok-table.jpg)
 
 With all of this in mind, there is only one question to consider. Are the spines on the shelf truly representing the books (both for the story and in the marketing) or would they fade into the background of a shelfie?
