@@ -1,8 +1,9 @@
 ---
+header_feature_image: ../uploads/articlex-headerimage.jpg
 layout: post
 title: "'Cinderella Is Dead' Review- Includes Spoilers"
 date: 2022-02-08T18:00:44.883Z
-header_feature_image: ../uploads/articlex-headerimage.jpg
+image: ../uploads/2022-02-08-header-image.jpg
 title_color: "#ffffff"
 comments: false
 tags:
