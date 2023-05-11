@@ -1,8 +1,9 @@
 ---
+header_feature_image: ../uploads/article10-headerimage.jpg
 layout: post
 title: Five Fairy Tales That Deserve More Attention
 date: 2021-10-01T17:00:57.567Z
-header_feature_image: ../uploads/article10-headerimage.jpg
+image: ../uploads/2021-10-1-header-image.jpg
 title_color: "#ffffff"
 comments: false
 tags:
