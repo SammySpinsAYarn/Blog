@@ -1,8 +1,9 @@
 ---
+header_feature_image: ../uploads/article12-headerimage.jpg
 layout: post
 title: Why 'Sleeping Beauty' is So Frustrating
 date: 2021-10-13T16:00:16.195Z
-header_feature_image: ../uploads/article12-headerimage.jpg
+image: ../uploads/2021-10-13-header-image.jpg
 title_color: "#ffffff"
 comments: false
 tags:
