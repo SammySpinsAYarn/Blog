@@ -2,7 +2,7 @@
 layout: post
 title: "LGBT+ In SFF: Becky Chambers' 'Wayfarer' Series"
 date: 2023-04-14T12:30:08.385Z
-image: ../uploads/article1-header.jpg
+image: ../uploads/2023-04-14-header-image.jpg
 title_color: "#ffffff"
 comments: false
 tags:
@@ -14,11 +14,7 @@ Reading *The Long Way to a Small Angry Planet* was not planned. Nor was it the
 
 The first of the *Wayfarer* series has the tone of a classic science fiction. A new person joins a ship for mysterious reasons before embarking on a long quest through space with their interspecies crew, encountering aliens and escaping danger to reach their goal. This is the plot of many a sci-fi novel and film.
 
-So what sets this apart from other novels? It certainly isn't the interspecies interactions. The post below is amusing in how typical it can be in the genre and reveals a common problem in the films.
-
-![](../uploads/article1-misogynypost.jpg)
-
-I had a similar thought upon reading the first conversation in the book- featuring an immediate introduction of racism and xenophobia between species. A common trope. Yet Chambers makes a conscious effort through the perspectives of multiple characters to make it clear that it is unacceptable among the crew and the GC (*Wayfarer*'s equivalent of *Star Trek*'s Federation or *Star Wars* Senate), with some chapters making it a point to talk about how the immediate comparisons and othering are moved beyond quickly in most cases. Once again, science fiction aspires to represent human evolution in ideology while recognising that it may not be entirely possible. So if this feature of sci-fi is not atypical and worthy of its praise more than its cohort, what makes Chambers' work commendable?
+So what sets this apart from other novels? It certainly isn't the interspecies interactions. There is often ersatz racism in science fiction- in this case an immediate introduction of speciesism. A common trope. Yet Chambers makes a conscious effort through the perspectives of multiple characters to make it clear that it is unacceptable among the crew and the GC (*Wayfarer*'s equivalent of *Star Trek*'s Federation or *Star Wars* Senate), with some chapters making it a point to talk about how the immediate comparisons and othering are moved beyond quickly in most cases. Once again, science fiction aspires to represent human evolution in ideology while recognising that it may not be entirely possible. So if this feature of sci-fi is not atypical and worthy of its praise more than its cohort, what makes Chambers' work commendable?
 
 When reading the descriptors of the novel on [The Storygraph](https://www.thestorygraph.com/), I was initially surprised to read that it had been labelled by readers as LGBTQIA+. But, thinking about the characters, each with personality, aspirations and flaws, it becomes clear why this tag is applicable. Unlike in other books, there is no big arrow pointed to it in the text, no huge proclamations.
 
