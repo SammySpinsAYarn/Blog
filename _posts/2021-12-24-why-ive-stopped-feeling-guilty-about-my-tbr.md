@@ -1,8 +1,9 @@
 ---
+header_feature_image: ../uploads/article16-headerimage-unsplash-bytimwildsmith-.jfif
 layout: post
 title: Why I've Stopped Feeling Guilty About My TBR
 date: 2021-11-10T17:00:42.646Z
-header_feature_image: ../uploads/article16-headerimage-unsplash-bytimwildsmith-.jfif
+image: ../uploads/2021-10-11-header-image.jpg
 title_color: "#ffffff"
 comments: false
 tags:
