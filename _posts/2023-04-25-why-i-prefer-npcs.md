@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why I Prefer NPCs
+title: NPCs Are More Fun
 date: 2023-04-21T12:30:06.529Z
 title_color: "#ffffff"
 comments: false
@@ -14,3 +14,5 @@ F﻿irstly, they do not need the 'depth' we ascribe to major characters. Motivat
 S﻿econdly, it is the variety. Are they a henchman with nothing beyond malevelonce and some level of grime? Are they a shop assistant ready with a smile? Are they a mercurial person with needed information and suspect intentions? Because they do not need to be long-term, there is more room for exploration across the wide array that can form from these.
 
 T﻿hirdly, there is an element of roleplay that appeals. More and more people are aspiring to a more settled life rather than the grand escapades of heroes, be that due to financial, physical, or personal limitations and preferences. Side characters can be sort of gentle escapist roleplay, like the aesthetics online that allow the decorations of a different lifestyle without requiring a lifestyle change.
+
+W﻿ith all this in mind, it is any surprise that a jaunt with NPCs can be as, if not more, fun than a main character or PC?
