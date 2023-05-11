@@ -13,7 +13,7 @@ F﻿irst of all, the ultimate sin of cover design: the irremovable sticker. Ther
 
 T﻿hen we have the weird second-cover-flap. What even is that? Why is it there? A design feature for interest? An extra element like French flaps? A carry-over from American publishing still in the early stages of the product adoption and product life style?
 
-![](https://i.ebayimg.com/images/g/bvQAAOSwBOBjYOY3/s-l500.jpg "Gideon The Ninth paperback with the offending detail")
+\[﻿INSERT IMAGE HERE!]
 
 P﻿ostulating its purpose, it may be for additional colour or to differentiate it from other books in attracting attention. From what I've heard, it just makes the actual front cover, with the art on it that the designer focused on, get damaged easier because it has been cropped. If you want a more eye-catching cover format element through colour, perhaps instead capitalise on the growing love for sprayed or decorated edges. Still colourful and attention grabbing without sacrificing size and practicality.
 
