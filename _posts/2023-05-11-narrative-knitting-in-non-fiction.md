@@ -15,4 +15,4 @@ T﻿o round off, here are three recommendations of narrative non-fiction knittin
 
 *A﻿ Stash Of One's Own* is an essay collection edited by contributor Clara Parkes that centres the relationships these crafters have with wool and yarn. It stays with them through loss and grief, and opens up enticing and exciting possibility, as well as approaches to consumerism and our relationship with material goods.
 
-***T﻿he Power of Knitting* by Loretta Napoleoni** kaj
+H﻿opefully at least one of these appeals to those wanting to read a little more about others knitting journeys.
