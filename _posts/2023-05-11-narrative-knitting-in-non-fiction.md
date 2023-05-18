@@ -7,7 +7,7 @@ comments: false
 ---
 K﻿nitting books are not new. They're in shops, libraries, archival collections, on bookshelves, and all over the internet. Most are tutorials and patterns, but there are numerous ones about the history of the craft and experiences of its practitioners. For it is no coincidence that 'to spin a yarn' means to tell a story.
 
-Y﻿arn craft is time consuming. Hours and hours with the quiet background sounds of equipment as fibre takes form. Before there was recorded music or radio, and crafters worked in shared spaces, they needed something to occupy the quiet and beat off the monotony of their tasks.
+Y﻿arn craft is time consuming. Hours and hours with the quiet background sounds of equipment as fibre takes form. Before there was recorded music or radio, and crafters worked in shared spaces, they needed something to occupy the quiet and beat off the monotony of their tasks. So stories were swapped, gossip was shared, news was spread- talk filled the hours not consumed by other more active chores. Knitting was not always sedentary, but when it was, it could be prolonged.
 
 
 
