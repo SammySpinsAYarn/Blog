@@ -13,6 +13,6 @@ T﻿o round off, here are three recommendations of narrative non-fiction knittin
 
 *T﻿his Golden Fleece* by Esther Rutter traces the history of knitting in the UK through twelve projects from across the British Isles and their roles on the local communities and economies. Rutter takes a more reflective historical tone as she analyses practical details and impacts.
 
-*A﻿ Stash Of One's Own* is an essay collection edited by contributor Clara Parkes
+*A﻿ Stash Of One's Own* is an essay collection edited by contributor Clara Parkes that centres the relationships these crafters have with wool and yarn. It stays with them through loss and grief, and opens up enticing and exciting possibility, as well as approaches to consumerism and our relationship with material goods.
 
 ***T﻿he Power of Knitting* by Loretta Napoleoni** kaj
