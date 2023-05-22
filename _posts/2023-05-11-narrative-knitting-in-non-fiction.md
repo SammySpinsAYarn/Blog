@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Narrative Knitting in Non-Fiction
+title: Non-Fiction Knitting Narratives
 date: 2023-05-12T15:00:13.785Z
 title_color: "#ffffff"
 comments: false
