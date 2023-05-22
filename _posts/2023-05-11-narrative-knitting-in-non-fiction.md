@@ -9,7 +9,7 @@ K﻿nitting books are not new. They're in shops, libraries, archival collections
 
 Y﻿arn craft is time consuming. Hours and hours with the quiet background sounds of equipment as fibre takes form. Before there was recorded music or radio, and crafters worked in shared spaces, they needed something to occupy the quiet and beat off the monotony of their tasks. So stories were swapped, gossip was shared, news was spread- talk filled the hours not consumed by other more active chores. Knitting was not always sedentary, but when it was, it could be prolonged. Entertainment was necessary, much like today. Sometimes the crafters worked themselves into their stories. (Rumplestiltskin's unusual spinning habits; the spinning wheel and spindle in Sleeping Beauty; Penelope's weaving in *The Odyssey*.) The stories helped fill the time and the quiet, and provided the mind escapism even as the body stayed put.
 
-A﻿nd it is not solely the factual that include this
+A﻿nd it is not solely the factual that include knitting. There are the stories where yarn is an incidental detail, a passtime for characters just as it is for readers. But there are also stories where it forms an integral part of the characters' lives and stories, as in Kwana Jackson's romances and Nancy Warren's supernatural cozy murder series. Even here the stories centre escapism for the reader by helping connection through this mutual hobby. The yarn ties reader, writer, and creation, just as it does in patterns.
 
 T﻿o round off, here are three recommendations of narrative non-fiction knitting books.
 
