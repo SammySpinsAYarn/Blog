@@ -6,3 +6,5 @@ title_color: "#ffffff"
 comments: false
 ---
 For as long as there has been art, there have been appreciators. Patrons willing to sponsor artists and writers and creatives in order to support their craft and funding their works. Eager audiences devoting attention to something. Letters of admiration and apprectiation. And the fan-produced works recreating elements of the art they admire in every medium imaginable.
+
+F﻿anfiction is the best known of these. Alternate universes (AUs)
