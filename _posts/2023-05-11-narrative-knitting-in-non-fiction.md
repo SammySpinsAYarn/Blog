@@ -5,7 +5,7 @@ date: 2023-05-12T15:00:13.785Z
 title_color: "#ffffff"
 comments: false
 ---
-K﻿nitting books are not new. They're in shops, libraries, archival collections, on bookshelves, and all over the internet. Most are tutorials and patterns, but there are numerous ones about the history of the craft and experiences of its practitioners. For it is no coincidence that 'to spin a yarn' means to tell a story.
+K﻿nitting books are not new. They're in shops, libraries, archival collections, on bookshelves, and all over the internet. Most are tutorials and patterns, but there are numerous ones about the history of the craft and experiences of its practitioners. After all, it isn't coincidence that 'to spin a yarn' means to tell a story. 
 
 Y﻿arn craft is time consuming. Hours and hours with the quiet background sounds of equipment as fibre takes form. Before there was recorded music or radio, and crafters worked in shared spaces, they needed something to occupy the quiet and beat off the monotony of their tasks. So stories were swapped, gossip was shared, news was spread- talk filled the hours not consumed by other more active chores. Knitting was not always sedentary, but when it was, it could be prolonged. Entertainment was necessary, much like today. Sometimes the crafters worked themselves into their stories. (Rumplestiltskin's unusual spinning habits; the spinning wheel and spindle in Sleeping Beauty; Penelope's weaving in *The Odyssey*.) The stories helped fill the time and the quiet, and provided the mind escapism even as the body stayed put. Here readers gain connection through this mutual hobby. The yarn ties reader, writer, and creation, just as it does in patterns.
 
