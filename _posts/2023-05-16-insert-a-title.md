@@ -1,10 +1,12 @@
 ---
 layout: post
-title: A Fascination with Fan Works
+title: "Fan Works: Appreciation Made Tangible"
 date: 2023-05-19T15:30:59.556Z
 title_color: "#ffffff"
 comments: false
 ---
-For as long as there has been art, there have been appreciators. Patrons willing to sponsor artists and writers and creatives in order to support their craft and funding their works. Eager audiences devoting attention to something. Letters of admiration and apprectiation. And the fan-produced works recreating elements of the art they admire in every medium imaginable.
+For as long as there has been art, there have been fans. Patrons willing to sponsor artists and writers and creatives in order to support their craft and funding their works. Eager audiences devoting attention to something. Letters of admiration and apprectiation. And the fan-produced works recreating elements of the art they admire in every medium imaginable.ans
 
-F﻿anfiction is the best known of these. Alternate universes (AUs)
+F﻿anfiction is the best known of these. Alternate universes (AUs), slashfics, what-ifs; there is no end to the writing exploring the stories others have built. Unfortuantely, this is often looked down on, despite numerous writers acknowledging cutting their teeth in this genre, and [Neil Gaiman stating he won the 2004 Hugo Award for Best Short Story with a fanfiction](https://neil-gaiman.tumblr.com/post/655051316456996864/do-you-consider-fanfiction-legitimate-writing). Even *Paradise Lost*, an acclaimed work of classical literature studied far and wide, is arguably self-insert fanfiction of the author adventuring with a beloved poet- arguably in a similar vein to the many 'I was sold to One Direction and now live with them' stories Wattpad was inundated with at one point. Yet this is a hugley popular genre of online writing, and has spawned stories that went on to be popular in the mainstream market with some alterations. (Side-eyeing the *Fifty Shades* trilogy and *After* series, to name two of the better known.) These writers create stories that allow audiences to remain in the worlds of these stories even after the author has closed the book on that series. Hours of creation are poured in so others can delve once more into the realms invented.
+
+F﻿or the more artistically inclined, fan art is also a huge category of creation. Almost every major franchise has people recreating scenes or envisaging other moments. The Dungeons and Dragons livestream show 'Critical Role', for example, recieves so much public attention in this area that every week they show a video gallery compilation to show the work their fans have produced about their adventures. This is usually better recieved than fanfiction (depending on the subject of the art), likely because the art is often 'higher quality' as its creators have more practice than their writing counterparts. (After all, a great deal of online fanfiction is written by teenagers still developing their style and practising how to write well. [Perhaps their is a correlation here between creators and cause of derision?](https://www.youtube.com/watch?v=0B543Zkqq88))
