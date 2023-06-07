@@ -2,6 +2,7 @@
 layout: post
 title: Non-Fiction Knitting Narratives
 date: 2023-05-12T15:00:13.785Z
+image: ../uploads/2023-05-12-header-image.jpeg
 title_color: "#ffffff"
 comments: false
 ---
