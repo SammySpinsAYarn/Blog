@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Negative Space In Type: Imagery of \"Howl's Moving Castle\""
+title: Traversing Negative Space in "Howl's Moving Castle"
 date: 2020-11-04T15:38:28.966Z
 header_feature_image: ../uploads/article7-howl-smovingcastle-filmimage-.jpg
-image: ../uploads/2020-04-11-headerimage.jpeg
+image: ../uploads/2020-11-04-header-image.jpeg
 comments: true
 ---
 A personal favourite, *Howl's Moving Castle* by Diana Wynne Jones is an incredible children's story following the adventures of Sophie, a hatter cursed with old-age by a witch, seeking a remedy in the home of reputed scoundrel and sorcerer Howl. So why is it that on the surface, such an unusual story had such a blunt typeface? Because, like the story itself, a seemingly simple concept can evolve into something far greater with the right details.
