@@ -2,6 +2,7 @@
 layout: post
 title: Murder of the Author
 date: 2023-05-26T14:00:02.837Z
+image: ../uploads/2023-05-26-header-image.jpeg
 title_color: "#ffffff"
 comments: false
 ---
