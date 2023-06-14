@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Coraline is Creepier and Warmer Than Expected
+title: "'Coraline' is Creepier and Warmer Than Expected"
 date: 2023-06-16T15:30:49.650Z
 title_color: "#ffffff"
 comments: false
