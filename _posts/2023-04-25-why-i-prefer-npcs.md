@@ -2,6 +2,7 @@
 layout: post
 title: NPCs Are More Fun
 date: 2023-04-21T12:30:06.529Z
+image: ../uploads/2023-04-21-header-image.png
 title_color: "#ffffff"
 comments: false
 tags:
