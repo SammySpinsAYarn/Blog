@@ -2,6 +2,7 @@
 layout: post
 title: Love Letter to Libraries
 date: 2023-06-02T13:15:07.418Z
+image: ../uploads/2023-06-02-header-image.jpeg
 title_color: "#ffffff"
 comments: false
 ---
