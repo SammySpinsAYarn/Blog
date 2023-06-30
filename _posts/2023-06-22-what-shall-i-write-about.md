@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What shall I write about?
+title: Working Through My Stash is Making it Grow
 date: 2023-06-30T13:00:01.336Z
 title_color: "#ffffff"
 comments: false
