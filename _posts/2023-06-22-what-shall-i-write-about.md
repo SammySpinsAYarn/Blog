@@ -13,4 +13,4 @@ R﻿avelry became my accomplice. I weighed and uploaded all the skeins, catalogu
 
 E﻿xcept, the yarns weren't quite right. I have four different yellows, but none were bright enough for the Pride Bunny. That scrap Positive Potato needed more than the little I had left, and only comes in 50g skeins. The Great A'Tuin demands a perfect green- and more than I originally ordered- alongside the smaller quantities of other shades for the shell. Searching through for the patterns to find uses has also meant finding ones that look amazing, but don't match my stash, given most are single skeins. Bit by bit, I've bought yarn to use yarn. Since starting this endeavour, I've added about half a kilo to my stash.
 
-A﻿nd I have been using it. My bunny just needs sewing up with weighted feet[](https://www.youtube.com/playlist?list=PL1VxpiMcBXBPGMdDoSi63QK5ZRTgISf-6)
+Projects are underway. The bunny just needs sewing up; Great A'Tuin is underway; the recent purchases are in the soon-to-use bag. Hopefully, recent increase will result in a greater decrease once I get going. Hopefully.[](https://www.youtube.com/playlist?list=PL1VxpiMcBXBPGMdDoSi63QK5ZRTgISf-6)
