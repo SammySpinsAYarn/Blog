@@ -2,6 +2,7 @@
 layout: post
 title: Working Through My Stash is Making it Grow
 date: 2023-06-30T13:00:01.336Z
+image: ../uploads/2023-06-30-header-image.jpeg
 title_color: "#ffffff"
 comments: false
 ---
