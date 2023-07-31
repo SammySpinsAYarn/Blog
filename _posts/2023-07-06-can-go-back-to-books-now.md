@@ -13,4 +13,4 @@ Y﻿et the lack of censorship means the stories are *allowed* to be different. T
 
 Unpublished stories also represent something important. Artistic effort. Not every story will be published by professionals (and we should all be grateful for this). But that does note mean that the effort put into producing those works is worthless. They show dedication. An attempt at expression. And a level of planning. Unpublished stories are either labours of love produced for the writer or a means of skillbuilding for future projects- or both. Worth less, financially speaking, does not mean worthless.
 
-(﻿By the way, [here is the story that brought this on](https://wanderinginn.com/table-of-contents/).)
+(﻿By the way, [here is the story that brought this on](https://wanderinginn.com/table-of-contents/). Be warned, it is very long, and has made me cry on multiple occasions.)
