@@ -11,4 +11,4 @@ Open access digital stories can hugely vary in quality. They range from the infa
 
 Y﻿et the lack of censorship means the stories are *allowed* to be different. They can rely on tropes of be completely alien. Lean into pop culture or entirely ignore it. Be six word stories or tomes of over a thousand pages. There is a reason instagram poetry is recognised as a different style to conventional poetry. Online creators have the freedom to cultivate an audience and style independent to their geographic restrictions (though laws still limit certain works, for better or worse). Their reach is both further and more limited as they grow an audience. Digital works also allow embedded media- video clips, gifs, music- that allows readers to visualise in a way most physical books do not allow.
 
-(﻿By the way, [here is the story that brought this on](https://wanderinginn.com/table-of-contents/).) khb
+(﻿By the way, [here is the story that brought this on](https://wanderinginn.com/table-of-contents/).)
