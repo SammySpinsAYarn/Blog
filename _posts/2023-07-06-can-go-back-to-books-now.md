@@ -13,7 +13,7 @@ Y﻿et the lack of censorship means the stories are *allowed* to be different. T
 
 Unpublished stories also represent something important. Artistic effort. Not every story will be published by professionals (and we should all be grateful for this). But that does note mean that the effort put into producing those works is worthless. They show dedication. An attempt at expression. And a level of planning. Unpublished stories are either labours of love produced for the writer or a means of skillbuilding for future projects- or both. Financially worth less does not mean worthless. Regarding them as such fails to recognise the audience numbers they can accrue, or the storylines involved. It discredits millions of works that deserve a better name than simply 'not good enough for a publishing house'.
 
-W﻿hether widely available online or a private account shared with few intimates, online works of writing can be just as valid as their printed counterparts. They can be incredible or cringeworthy. Uniquely original or cliche-ridden. Epically long or under five chapters But they are all expressions of a writer and an effort to share their thoughts with an audience.
+W﻿hether widely available online or a private account shared with few intimates, online works of writing can be just as valid as their printed counterparts. They can be incredible or cringeworthy. Uniquely original or cliche-ridden. Epically long or under five chapters But they are all expressions of a writer and an effort to share their thoughts with an audience. Reminders that creative people exist at all levels of skill and often desire to share that with those interested.
 
 
 
