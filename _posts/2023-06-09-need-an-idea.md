@@ -2,6 +2,7 @@
 layout: post
 title: "'Coraline' is Creepier and Warmer Than Expected"
 date: 2023-06-16T15:30:49.650Z
+image: ../uploads/2023-06-16-header-image.jpg
 title_color: "#ffffff"
 comments: false
 ---
