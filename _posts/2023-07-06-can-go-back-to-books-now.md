@@ -2,6 +2,7 @@
 layout: post
 title: Unpublished Does Not Mean Unworthy
 date: 2023-07-14T13:00:47.717Z
+image: ../uploads/2023-07-14-header-image-by-aliss-sinisalu-of-unsplash-.jpg
 title_color: "#ffffff"
 comments: false
 ---
