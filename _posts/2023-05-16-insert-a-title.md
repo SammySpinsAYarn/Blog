@@ -2,6 +2,7 @@
 layout: post
 title: "Fan Works: Appreciation Made Tangible"
 date: 2023-05-19T15:30:59.556Z
+image: ../uploads/2023-05-19-header-image-by-ali-muftuogullari-of-unsplash-.jpg
 title_color: "#ffffff"
 comments: false
 ---
