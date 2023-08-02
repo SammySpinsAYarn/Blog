@@ -2,6 +2,7 @@
 layout: post
 title: Crafting Doesn't Have To Be Functional
 date: 2023-07-07T14:30:43.155Z
+image: ../uploads/2023-07-07-header-image-by-anya-chernik-of-unsplash-.jpg
 title_color: "#ffffff"
 comments: false
 ---
