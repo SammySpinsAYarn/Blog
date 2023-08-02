@@ -5,4 +5,4 @@ date: 2023-07-21T17:09:06.066Z
 title_color: "#ffffff"
 comments: false
 ---
-*X-Files*. *Grimm*. *Buffy the Vampire Slayer*.
+Monster of the week is an understandble concept. Each episode (as it is primarily a television concept) focuses on a different beast, with potential for something larger in the plot building up. Shows like *Buffy the Vampire Slayer*, *The X-Files*, and *Grimm* are examples.
