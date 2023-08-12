@@ -6,3 +6,5 @@ title_color: "#ffffff"
 comments: false
 ---
 Y﻿arn bombing, or guerilla knitting, is fascinating. It is considered a type of street art, and involves covering something in public with a knitted/crocheted piece. It could be small, like a garland on a fence, or massive, like covering an entire bus. As with other pieces of street art, it can be 'frivolous' and colourful or a message/allegory. Whatever form it takes, it is the crafters' answer to graffiti and should not be overlooked.
+
+M﻿agda Sayeg is credited with having begun the current style of yarn bombing when, in 2005, she began covering her shop handles in knitted scraps. This caught on, and Sayeg has since moved on to
