@@ -2,6 +2,7 @@
 layout: post
 title: Yarn Bombing is Crafty Graffiti
 date: 2023-08-18T14:00:10.950Z
+image: ../uploads/2023-08-18-header-image-by-paul-downey-of-flickr-.jpg
 title_color: "#ffffff"
 comments: false
 ---
