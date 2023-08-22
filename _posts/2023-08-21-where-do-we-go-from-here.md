@@ -22,3 +22,7 @@ A﻿gain, this is to maximise space in deeper shelves. It also means beautiful c
 **B﻿ottom Stacking**
 
 T﻿he danger of top stacking is the bending of books on an uneven surface. By creating a side stacked base layer, there is a way to maximise use of vertical space on bookcases. This can make it quite awkward to remove the base layer, and requires an even amount of pressure to keep the flat books in stable condition. Otherwise, this can be a viable shelving method.
+
+**A﻿dd More Shelves**
+
+T﻿his is a fairly obvious one. Some people have space for another book case or some wall-mounted shelves. Others can find it elsewhere in their homes. Alternative options may emerge, like trolley carts, wardobes, and windowsills. None seem ideal. But for many people, the space is taken by other more practical items. So how do we fix that? First, check if the shelves are adjustable. Can they be readjusted to add more by bringing them closer together? Second, build it out. Would it be feasible (and safe) to add extra shelving on top or off a side through an attachment? Finally, are you making the most of your top shelf? Is it book storage or is it decorative? Could it be both?
