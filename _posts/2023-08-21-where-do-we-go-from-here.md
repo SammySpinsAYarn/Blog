@@ -5,7 +5,7 @@ date: 2023-08-04T14:00:40.515Z
 title_color: "#ffffff"
 comments: false
 ---
-T﻿he battle's done
+Unfortunately, books need space. It isn't possible to fit endless tomes on a bookcase
 
 And we kind of won
 
