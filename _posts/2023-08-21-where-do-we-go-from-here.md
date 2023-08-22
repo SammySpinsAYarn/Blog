@@ -13,4 +13,4 @@ T﻿his works best with books of the same size when the pile in question is tall
 
 **S﻿taggered Double Shelving**
 
-D﻿ouble stacking is often criticized for hiding the rear layer of books, but deeper shelves exist and no shelf space shold be wasted. The answer to to elevate the back books in some way, creating tiers of books. Egg boxes are the easiest method- using ones sized for six or eighteen eggs
+D﻿ouble stacking is often criticized for hiding the rear layer of books, but deeper shelves exist and no shelf space shold be wasted. The answer to to elevate the back books in some way, creating tiers of books. Egg boxes are the easiest method- three eggs deep is a great support for the 'standard' size paperback and lifts enough for the rear layer to be visible
