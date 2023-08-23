@@ -1,11 +1,13 @@
 ---
 layout: post
 title: Can Knitting Help Your Health?
-date: 2023-08-11T14:06:47.957Z
+date: 2023-09-01T14:06:47.957Z
 title_color: "#ffffff"
 comments: false
 ---
-M﻿any people have spoken about the peace and relief knitting can bring them but, as anyone who has glared at a pattern while frogging stitches knows, it is not always a relaxing hobby. So why is knitting suggested as a calming method capable of easing mental tension?
+M﻿any people have spoken about the peace and relief knitting can bring them but, as anyone who has glared at a pattern while frogging stitches knows, it is not always a relaxing hobby. So why is knitting suggested as a calming method capable of easing mental tension and aiding rehabilitation?
+
+
 
 https://www.bbc.co.uk/programmes/m001gj5n
 
@@ -13,7 +15,7 @@ https://www.bbc.co.uk/programmes/w3ct32xj
 
 https://www.bbc.co.uk/programmes/b06sdvx0
 
-https://www.bbc.co.uk/news/business-59291962
+Silver, K. (2021) 'How pandemic burnout sparked a knitting revival', *BBC News*, 22 November. Available at https://www.bbc.co.uk/news/business-59291962 (Last accessed 
 
 https://www.bbc.co.uk/news/av/uk-england-oxfordshire-40517824
 
