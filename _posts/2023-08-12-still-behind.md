@@ -7,7 +7,7 @@ comments: false
 ---
 M﻿any people have spoken about the peace and relief knitting can bring them but, as anyone who has glared at a pattern while frogging stitches knows, it is not always a relaxing hobby. So why is knitting suggested as a calming method capable of easing mental tension and aiding rehabilitation?
 
-
+Y﻿arn retailers noticed an unusual summer uptake, credited to factors such as lockdown passtimes, Tom Daley's Olympics knitting, and bohemian styles in trend (Silver, 2021).
 
 https://www.bbc.co.uk/programmes/m001gj5n
 
