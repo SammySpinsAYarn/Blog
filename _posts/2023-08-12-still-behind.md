@@ -15,7 +15,7 @@ https://www.bbc.co.uk/programmes/w3ct32xj
 
 https://www.bbc.co.uk/programmes/b06sdvx0
 
-Silver, K. (2021) 'How pandemic burnout sparked a knitting revival', *BBC News*, 22 November. Available at https://www.bbc.co.uk/news/business-59291962 (Last accessed 
+Silver, K. (2021) 'How pandemic burnout sparked a knitting revival', *BBC News*, 22 November. Available at <https://www.bbc.co.uk/news/business-59291962> (Last accessed 23 August 2023)
 
 https://www.bbc.co.uk/news/av/uk-england-oxfordshire-40517824
 
