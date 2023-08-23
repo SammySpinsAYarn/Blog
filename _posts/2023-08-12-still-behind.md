@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Can Knitting Actual Help Your Health?
+title: Can Knitting Help Your Health?
 date: 2023-08-11T14:06:47.957Z
 title_color: "#ffffff"
 comments: false
 ---
-W﻿hat shall I write about?
+M﻿any people have spoken about the peace and relief knitting can bring them but, as anyone who has glared at a pattern while frogging stitches knows, it is not always a relaxing hobby. So why is knitting suggested as a calming method capable of easing mental tension?
 
 https://www.bbc.co.uk/programmes/m001gj5n
 
