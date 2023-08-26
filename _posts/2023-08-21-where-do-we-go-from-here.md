@@ -19,6 +19,8 @@ T﻿his works best with books of the same size when the pile in question is tall
 
 D﻿ouble stacking is often criticized for hiding the rear layer of books, but deeper shelves exist and no shelf space shold be wasted. The answer to to elevate the back books in some way, creating tiers of books. Egg boxes are the easiest method- three eggs deep is a great support for the 'standard' size paperback and lifts enough for the rear layer to be visible. (Be aware, hardbacks do not fit as neatly and this method works better if the back of the bookcase is all the same level. Warping is still possible if care is not taken.)
 
+![](../uploads/2023-08-25-example-tier-shelef-part-2.jpg)
+
 **Cover Out**
 
 A﻿gain, this is to maximise space in deeper shelves. It also means beautiful cover art can be displayed rather than hidden. It uses the same principle as side stacking in being effective only if a stack is taller than the width of the book cover. This technique is used by bookshops who have a number of copies of the same book. It can also be used counteractively to make bookcases seem fuller by having a single book take up more width on shelf (extra books behind can be replaced by a small box to provide support).
@@ -28,6 +30,8 @@ A﻿gain, this is to maximise space in deeper shelves. It also means beautiful c
 **B﻿ottom Stacking**
 
 T﻿he danger of top stacking is the bending of books on an uneven surface. By creating a side stacked base layer, there is a way to maximise use of vertical space on bookcases. This can make it quite awkward to remove the base layer, and requires an even amount of pressure to keep the flat books in stable condition. Otherwise, this can be a viable shelving method.
+
+![]()
 
 **A﻿dd More Shelves**
 
