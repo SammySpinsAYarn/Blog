@@ -19,7 +19,7 @@ T﻿his works best with books of the same size when the pile in question is tall
 
 D﻿ouble stacking is often criticized for hiding the rear layer of books, but deeper shelves exist and no shelf space shold be wasted. The answer to to elevate the back books in some way, creating tiers of books. Egg boxes are the easiest method- three eggs deep is a great support for the 'standard' size paperback and lifts enough for the rear layer to be visible. (Be aware, hardbacks do not fit as neatly and this method works better if the back of the bookcase is all the same level. Warping is still possible if care is not taken.)
 
-![](../uploads/2023-08-25-example-tier-shelef-part-2.jpg)
+![Two-tier book shelves with hardback classics at the back](../uploads/2023-08-25-example-tier-shelef-part-2.jpg)
 
 **Cover Out**
 
