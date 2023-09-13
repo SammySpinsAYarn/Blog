@@ -13,7 +13,7 @@ Unfortunately, books need space. It isn't possible to fit endless tomes on a boo
 
 T﻿his works best with books of the same size when the pile in question is taller than the spine's length. It capitalises on taller shelves and is the safer method of top stacking (resting a book on its cover on top of books shelved traditionally) to avoid the book on top getting bent by an uneven surface.
 
-![]()
+![](../uploads/2023-08-25-example-side-stack.jpg)
 
 **S﻿taggered Double Shelving**
 
@@ -31,7 +31,7 @@ A﻿gain, this is to maximise space in deeper shelves. It also means beautiful c
 
 T﻿he danger of top stacking is the bending of books on an uneven surface. By creating a side stacked base layer, there is a way to maximise use of vertical space on bookcases. This can make it quite awkward to remove the base layer, and requires an even amount of pressure to keep the flat books in stable condition. Otherwise, this can be a viable shelving method.
 
-![]()
+![](../uploads/2023-08-25-example-base-layer.jpg)
 
 **A﻿dd More Shelves**
 
