@@ -20,3 +20,5 @@ T﻿hese memoirs follow booksellers; Bythell making witty observations in his se
 
 
 [Burning the Books](https://app.thestorygraph.com/books/cf893705-ae12-4bf2-97d3-c3c5d1a76ccb) by Richard Ovenden and [The Dictionary People](https://app.thestorygraph.com/books/fc13b2a0-bbb6-487c-977a-7d6f5294c38c) by Sarah Ogilvie
+
+O﻿venden, director of Oxford's Bodleian explores the history of pyro-censorship by exploring the long history of book burnings. A librarian exploring the systematic destruction of their work throughout the ages and its causes sounds suitably intellectual and interesting, and offers a more academic alternative to *Ink and Bone*, where the protagonist cannot understand why people destroy books. Ogilvie goes for a combination of etymology and sociology, exploring the cooperative nature of the shaping of the dictionary and thereby language at large.
