@@ -27,4 +27,4 @@ O﻿venden, director of Oxford's Bodleian explores the history of pyro-censorshi
 
 
 
-S﻿o those six books are the books about books that have snuck their way onto my TBR.
+S﻿o those are the six books about books that have snuck their way onto my TBR. Perhaps some appealled to you and will now make their way onto your shelves or pile of library loans. And if not, there are far more out there than you might originally expect. One quick search is all it would take to find some that would.
