@@ -5,7 +5,7 @@ date: 2023-08-04T14:00:26.333Z
 title_color: "#ffffff"
 comments: false
 ---
-Books are written on all topics, so it should suprise no one that there are both fiction and non-fiction books out in the world about these artefacts and the people involed in their production. How-tos on their writing and production, analyses on their history and role in the world, to current books all about those whose lives centre the books. Here are a few of the latter variety that I want to read before the end of the year. 
+Books are written on all topics, so it should suprise no one that there are both fiction and non-fiction books out in the world about these artefacts and the people involed in their production. How-tos on their writing and production, analyses on their history and role in the world, to current books all about those whose lives centre the books. Here are a few I want to read before the end of the year.
 
 [T﻿he Cat Who Saved Books](https://app.thestorygraph.com/books/19a53404-887d-4bde-b209-60fb17679d2c) by Sōsuke Natsukawa and [What You Are Looking For is in the Library](https://app.thestorygraph.com/books/2409ddb7-9114-42fd-86c4-39996c61befc) by Michiko Aoyama
 
