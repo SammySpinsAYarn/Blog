@@ -16,3 +16,7 @@ B﻿oth of these books are translated Japanese fiction books centring bookish lo
 [T﻿he Bookseller at the End of the World](https://app.thestorygraph.com/books/fdd9a6ca-8508-4f7e-8b7a-3212e77fa61f) by Ruth Shaw and [The Diary of a Bookseller](https://app.thestorygraph.com/books/a0545a9c-cd38-4f6b-b3fd-d55c8bbe62c9) by Shaun Bythell
 
 T﻿hese memoirs follow booksellers; Bythell making witty observations in his second-hand bookshop in Scotland, Shaw operating in New Zealand interspersed with her wild adventures. Both are a little over 300 pages and reflect on the sellers and their customers. I anticipate a number of interesting stories
+
+
+
+[Burning the Books](https://app.thestorygraph.com/books/cf893705-ae12-4bf2-97d3-c3c5d1a76ccb) by Richard Ovenden and [The Dictionary People](https://app.thestorygraph.com/books/fc13b2a0-bbb6-487c-977a-7d6f5294c38c) by Sarah Ogilvie
