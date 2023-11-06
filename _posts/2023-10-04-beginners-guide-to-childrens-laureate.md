@@ -13,4 +13,10 @@ A﻿lthough a private endeavour sponsored by Waterstones and an assortment of li
 
 B﻿ecause it is positive interaction with literacture and books and facilities. The Children's Laureate is an approachable and recognisable face for children to use as an almost parasocial relationship as a bridge to books and reading at a higher level. Laureateship is awarded to "[combine the celebration of excellence in writing and illustration for children with honouring individuals who have made a significant and lasting contribution to the world of children’s books](https://www.booktrust.org.uk/what-we-do/childrens-laureate/about-the-laureate/)", meaning the names and faces are recognisable to children. Mainstream writers help children recognise the value of the things these writers/illustrators are promoting by capitalising on their existing connection to them. Big names parents and children can identify help bring these issues to the forefront, and see for themselves the effort being put in to better the lives of children using literacy.
 
+S﻿o while in the grand scheme of things the Children's Laureate is not a huge thing, they are still an important and meaningful part of the children's literacy sphere and can have a huge impact on how children and parents percieve the value of reading, and all the long-term benefits this can have on the lives of the general populace.
+
+
+
+
+
 BookTrust (2023) *About the Waterstone’s Children’s Laureate*. Available at: <https://www.booktrust.org.uk/what-we-do/childrens-laureate/about-the-laureate/> (Accessed: 4 September 2023)
