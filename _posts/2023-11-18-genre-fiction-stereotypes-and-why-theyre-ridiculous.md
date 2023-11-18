@@ -30,3 +30,7 @@ A﻿s previously discussed, audiobooks are real books, so still count as 'readin
 **R﻿omance books are only for lonely, unhappy women, and create unrealistic expectations.**
 
 W﻿ow, ok cynic. First off, romance books are for anyone who enjoys hearing about another's relationship. And a fair amount of time, romance books either have or are secondary storylines to add to those characters as individuals with lives beyond the love interest- as everyone should. And for unrealistic expectations, most people have those anyway. People call it settling for a reason. Now though, those expectations are higher because independence has allowed women to have higher self-worth and want a romanitc *partner* rather than just wanting to be with someone.
+
+**R﻿eading is solitary hobby and doing it makes you an intellectual.**
+
+S﻿ocial media has proven what book clubs already knew- reading does not have to be a solitary hobby. Fandom is a real and powerful force that can make a huge difference in people's lives and friendships. While it can be done alone, it does not *have* to be.
