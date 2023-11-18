@@ -22,3 +22,7 @@ Arguably the most accessible and widely available story genres. Classics are che
 **N﻿on-fiction is boring.**
 
 I﻿f you think this, you are clearly a boring person. Non-fiction just means made up, and contains an incredible range of topics. Cookbooks and DIY manuals? Non-fiction. Biographies, autobiographies, and history books (including *Horrible Histories*)? Non-fiction. Anything on the wider world, from nature books to travelbooks to any political or social exploration? Non-fiction. If you have never voluntarily read a fiction book, you have never been curious about an element of real life, and that is very sad for you.
+
+**A﻿lternative mediums don't count as reading.**
+
+A﻿s previously discussed, audiobooks are real books, so still count as 'reading'. Comic books, graphic novels, and picture books are also still reading. They are the visual interpretation of a series of shapes to understand a progressing story. That is is reading.
