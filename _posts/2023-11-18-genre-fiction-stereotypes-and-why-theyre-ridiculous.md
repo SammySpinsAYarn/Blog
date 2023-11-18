@@ -26,3 +26,7 @@ I﻿f you think this, you are clearly a boring person. Non-fiction just means ma
 **A﻿lternative mediums don't count as reading.**
 
 A﻿s previously discussed, audiobooks are real books, so still count as 'reading'. Comic books, graphic novels, and picture books are also still reading. They are the visual interpretation of a series of shapes to understand a progressing story. That is is reading.
+
+**R﻿omance books are only for lonely, unhappy women, and create unrealistic expectations.**
+
+W﻿ow, ok cynic. First off, romance books are for anyone who enjoys hearing about another's relationship. And a fair amount of time, romance books either have or are secondary storylines to add to those characters as individuals with lives beyond the love interest- as everyone should. And for unrealistic expectations, most people have those anyway. People call it settling for a reason. Now though, those expectations are higher because independence has allowed women to have higher self-worth and want a romanitc *partner* rather than just wanting to be with someone.
