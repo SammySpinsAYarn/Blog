@@ -33,7 +33,7 @@ W﻿ow, ok cynic. First off, romance books are for anyone who enjoys hearing abo
 
 **Y﻿A is for teenage girls.**
 
-Y﻿A just means young adult, or teen. It is a genre that has created a number of hugely popular authors and series, and can cover some incredibly important and sensistive topics.
+Y﻿A just means young adult, or teen. It is a genre that has created a number of hugely popular authors and series, and can cover some incredibly important and sensitive topics. People often undervalue the importance of the literature given to those whose minds and worldview are still being formed. Besides, even if it were only for teenage girls, why would that mean it has any less value than books written just for adult men?
 
 **R﻿eading is solitary hobby and doing it makes you an intellectual.**
 
